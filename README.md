@@ -30,6 +30,19 @@ These seven are representative. They are not an official partnership with Wildbe
 
 Writes: on request in chat the agent can send. There is no separate confirmation screen. Already sent output cannot be pulled back by the next message.
 
+## Also on the hosted catalog
+
+Same cabinet, not a second product. Personal Telegram/WhatsApp user sessions are not listed here.
+
+| Job | What the hosted agent does | Product page |
+|---|---|---|
+| Yandex Direct | Campaigns, ads, and bids from chat | [yandex-direct](https://agenova.ru/integrations/yandex-direct/) |
+| Yandex Metrica | Counters and reports in one request | [yandex-metrica](https://agenova.ru/integrations/yandex-metrica/) |
+| VK Ads | Campaigns, ads, and stats | [vk-ads](https://agenova.ru/integrations/vk-ads/) |
+| Telegram bot | Inbound bot messages and replies | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
+
+The rest of the live catalog stays on [agenova.ru/integrations](https://agenova.ru/integrations/) without the word MCP.
+
 ## What this repo is not
 
 - Not a local MCP server for Cursor, Claude Desktop, or Smithery.

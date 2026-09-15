@@ -30,6 +30,19 @@ Agenova — размещённый AI-агент для работы в каби
 
 Отправка: по команде в чате агент умеет отправить. Отдельного экрана подтверждения нет. Уже отправленное следующим сообщением не отозвать.
 
+## Ещё на хосте
+
+Тот же кабинет, не второй продукт. Личные сессии Telegram/WhatsApp здесь не перечисляем.
+
+| Работа | Что делает агент на хосте | Страница |
+|---|---|---|
+| Яндекс Директ | Кампании, объявления и ставки из чата | [yandex-direct](https://agenova.ru/integrations/yandex-direct/) |
+| Яндекс Метрика | Счётчики и отчёты в одном запросе | [yandex-metrica](https://agenova.ru/integrations/yandex-metrica/) |
+| VK Реклама | Кампании, объявления и статистика | [vk-ads](https://agenova.ru/integrations/vk-ads/) |
+| Telegram-бот | Входящие сообщения бота и ответы | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
+
+Остальной живой каталог — на [agenova.ru/integrations](https://agenova.ru/integrations/), без слова MCP.
+
 ## Чем этот репозиторий не является
 
 - Не локальный MCP-сервер для Cursor, Claude Desktop или Smithery.
