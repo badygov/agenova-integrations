@@ -82,3 +82,12 @@ Not `npx`. Personal Telegram/WhatsApp user sessions are omitted.
 | Wildberries MCP — сборка заказов | [wb-fbs](https://agenova.ru/integrations/wb-fbs/) |
 | Wildberries MCP — выплаты | [wb-finance](https://agenova.ru/integrations/wb-finance/) |
 | Wildberries MCP — поставки на склад | [wb-supplies](https://agenova.ru/integrations/wb-supplies/) |
+
+## Hosted custom (on request)
+
+Runtime exists. Not a self-serve toggle. Not `npx`. Hub: [integrations](https://agenova.ru/integrations/).
+
+| MCP search name | Product page |
+|---|---|
+| 1C MCP — hosted custom, on request | [1c-custom](https://agenova.ru/integrations/#1c-custom) |
+| SBIS MCP — hosted EDO, on request | [sbis-edo](https://agenova.ru/integrations/#sbis-edo) |
