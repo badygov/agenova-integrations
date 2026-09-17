@@ -4,6 +4,8 @@
 
 **Wildberries MCP**, **Ozon MCP** и **Bitrix24 MCP** — hosted-инструменты Model Context Protocol внутри агента Agenova. Подключение — на [agenova.ru](https://agenova.ru). Полный публичный каталог (все живые leaf, кроме личных сессий Telegram/WhatsApp) — в [INTEGRATIONS.md](INTEGRATIONS.md) и в английской [README](README.md).
 
+**1C MCP** и **SBIS MCP** — hosted custom по запросу, не тумблер с сайта.
+
 Этот репозиторий только документация: нет `npx` / `uvx`, публичного `mcp.agenova.ru` пока нет. Official MCP Registry требует живой remote URL — фейк не публикуем.
 
 ## Как подключить
