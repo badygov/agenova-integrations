@@ -1,3 +1,5 @@
+<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: 021d0bfd390fc123f4f5d591fd44522fcb376fe3 -->
+
 # Agenova hosted MCP catalog
 
 Derived from live public L0. Connect at [agenova.ru](https://agenova.ru).

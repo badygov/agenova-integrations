@@ -18,6 +18,8 @@ Agenova is a hosted AI agent for seller cabinets and CRM. You authorize integrat
 
 Live product pages: [agenova.ru/integrations](https://agenova.ru/integrations/).
 
+<!-- BEGIN GENERATED CATALOG -->
+<!-- catalog-source-sha: 021d0bfd390fc123f4f5d591fd44522fcb376fe3 -->
 ## Hosted MCP jobs (hero)
 
 These seven are representative. They are not an official partnership.
@@ -80,6 +82,7 @@ These seven are representative. They are not an official partnership.
 |---|---|
 | 1C MCP — hosted custom, on request | [1c-custom](https://agenova.ru/integrations/#1c-custom) |
 | SBIS MCP — hosted EDO, on request | [sbis-edo](https://agenova.ru/integrations/#sbis-edo) |
+<!-- END GENERATED CATALOG -->
 
 Writes: on request in chat the agent can send. There is no separate confirmation screen. Already sent output cannot be pulled back by the next message.
 
