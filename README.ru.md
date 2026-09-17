@@ -2,9 +2,11 @@
 
 [English](README.md) · [Русский](README.ru.md)
 
-**Подключение — на [agenova.ru](https://agenova.ru).** Этот репозиторий только документация. В нём нет исходников MCP-серверов, брокера и продакшен-инфраструктуры.
+**Этот репозиторий — [`github.com/badygov/agenova-integrations`](https://github.com/badygov/agenova-integrations).** Подключение — на [agenova.ru](https://agenova.ru). Только документация: нет исходников MCP-серверов, брокера и продакшен-инфраструктуры.
 
-Agenova — размещённый AI-агент для работы в кабинетах селлера и CRM. Интеграции включаются в кабинете Agenova. Здесь нет команды `npx` и нет публичного MCP URL.
+Это не [polluxchou/agenova.chat](https://github.com/polluxchou/agenova.chat), не R-пакет [statisfactions/genova](https://github.com/statisfactions/genova) и не локальный MCP-сервер Wildberries/Ozon через `npx` (такие листинги — другие репозитории). Здесь нет `npx` и нет публичного MCP URL.
+
+Agenova — размещённый AI-агент для работы в кабинетах селлера и CRM. Интеграции включаются в кабинете Agenova.
 
 ## Как подключить
 
@@ -41,7 +43,7 @@ Agenova — размещённый AI-агент для работы в каби
 | VK Реклама | Кампании, объявления и статистика | [vk-ads](https://agenova.ru/integrations/vk-ads/) |
 | Telegram-бот | Входящие сообщения бота и ответы | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
 
-Остальной живой каталог — на [agenova.ru/integrations](https://agenova.ru/integrations/), без слова MCP.
+Остальной живой каталог — на [agenova.ru/integrations](https://agenova.ru/integrations/), без слова MCP на витрине.
 
 ## Чем этот репозиторий не является
 
