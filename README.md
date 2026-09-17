@@ -4,6 +4,8 @@
 
 **Wildberries MCP**, **Ozon MCP**, and **Bitrix24 MCP** are hosted Model Context Protocol jobs inside the Agenova agent. Connect at [agenova.ru](https://agenova.ru). This repository ([`github.com/badygov/agenova-integrations`](https://github.com/badygov/agenova-integrations)) is documentation only: no server source, no `npx` / `uvx`, no public `mcp.agenova.ru` yet.
 
+The **complete public catalog** is below and in [INTEGRATIONS.md](INTEGRATIONS.md) (40 live leaves). Personal Telegram/WhatsApp user sessions are omitted.
+
 Not a local stdio Wildberries MCP you paste into Cursor (`npx`). Not [polluxchou/agenova.chat](https://github.com/polluxchou/agenova.chat) and not the R package [statisfactions/genova](https://github.com/statisfactions/genova). Official MCP Registry `server.json` needs a live remote URL — we do not publish a fake one.
 
 Agenova is a hosted AI agent for seller cabinets and CRM. You authorize integrations in the Agenova cabinet, then ask for the job in chat.
@@ -18,32 +20,65 @@ Live product pages: [agenova.ru/integrations](https://agenova.ru/integrations/).
 
 ## Hosted MCP jobs (hero)
 
-These seven are representative. They are not an official partnership with Wildberries, Ozon, or Bitrix24.
+These seven are representative. They are not an official partnership.
 
-| Search name | What the hosted agent does | Product page |
-|---|---|---|
-| Wildberries MCP — cards | Finds a card, checks category fields, prepares price and attribute updates | [wb-catalog](https://agenova.ru/integrations/wb-catalog/) |
-| Wildberries MCP — FBS | Shows assembly tasks and prepares a supply against boxes | [wb-fbs](https://agenova.ru/integrations/wb-fbs/) |
-| Wildberries MCP — reviews | Lists unanswered reviews and drafts a reply in the shop’s voice | [wb-comms](https://agenova.ru/integrations/wb-comms/) |
-| Ozon MCP — cards | Creates and updates products, prices, and photos | [ozon-catalog](https://agenova.ru/integrations/ozon-catalog/) |
-| Ozon MCP — FBS | Shows hot postings and prepares stock updates | [ozon-fbs](https://agenova.ru/integrations/ozon-fbs/) |
-| Ozon MCP — reviews | Reads Seller reviews and chats and drafts replies | [ozon-comms](https://agenova.ru/integrations/ozon-comms/) |
-| Bitrix24 MCP — CRM | Finds a deal, funnel stage, and KPIs; prepares a record update if you ask | [bitrix-crm](https://agenova.ru/integrations/bitrix-crm/) |
+| Search name | Product page |
+|---|---|
+| Wildberries MCP — карточки | [wb-catalog](https://agenova.ru/integrations/wb-catalog/) |
+| Wildberries MCP — сборка заказов | [wb-fbs](https://agenova.ru/integrations/wb-fbs/) |
+| Wildberries MCP — отзывы и чаты | [wb-comms](https://agenova.ru/integrations/wb-comms/) |
+| Ozon MCP — товары | [ozon-catalog](https://agenova.ru/integrations/ozon-catalog/) |
+| Ozon MCP — заказы продавца | [ozon-fbs](https://agenova.ru/integrations/ozon-fbs/) |
+| Ozon MCP — отзывы и чаты | [ozon-comms](https://agenova.ru/integrations/ozon-comms/) |
+| Битрикс24 MCP — CRM | [bitrix-crm](https://agenova.ru/integrations/bitrix-crm/) |
+
+## Complete public catalog
+
+40 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
+
+| MCP search name | Product page |
+|---|---|
+| Avito MCP — статистика | [avito-analytics](https://agenova.ru/integrations/avito-analytics/) |
+| Avito MCP — чаты | [avito-comms](https://agenova.ru/integrations/avito-comms/) |
+| Avito MCP — объявления | [avito-items](https://agenova.ru/integrations/avito-items/) |
+| Avito MCP — заказы | [avito-orders](https://agenova.ru/integrations/avito-orders/) |
+| Avito MCP — продвижение | [avito-promo](https://agenova.ru/integrations/avito-promo/) |
+| Битрикс24 MCP — аналитика | [bitrix-analytics](https://agenova.ru/integrations/bitrix-analytics/) |
+| Битрикс24 MCP — задачи | [bitrix-tasks](https://agenova.ru/integrations/bitrix-tasks/) |
+| Fal.ai MCP | [fal-bridge](https://agenova.ru/integrations/fal-bridge/) |
+| ГЛОНАССSoft MCP | [glonasssoft](https://agenova.ru/integrations/glonasssoft/) |
+| Google Search Console MCP | [google-search-console](https://agenova.ru/integrations/google-search-console/) |
+| Google Таблицы и документы MCP | [google-shared](https://agenova.ru/integrations/google-shared/) |
+| Почта MCP | [mail-imap](https://agenova.ru/integrations/mail-imap/) |
+| Текст из документов MCP | [mistral-ocr-bridge](https://agenova.ru/integrations/mistral-ocr-bridge/) |
+| MoyKlass MCP | [moyklass-crm-api](https://agenova.ru/integrations/moyklass-crm-api/) |
+| Ozon MCP — отчёты | [ozon-analytics](https://agenova.ru/integrations/ozon-analytics/) |
+| Ozon MCP — поставки на склад | [ozon-fbo](https://agenova.ru/integrations/ozon-fbo/) |
+| Ozon MCP — выплаты | [ozon-finance](https://agenova.ru/integrations/ozon-finance/) |
+| Ozon MCP — реклама | [ozon-promo](https://agenova.ru/integrations/ozon-promo/) |
+| Поиск в интернете MCP | [perplexity](https://agenova.ru/integrations/perplexity/) |
+| Telegram-бот MCP | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
+| VK Реклама MCP | [vk-ads](https://agenova.ru/integrations/vk-ads/) |
+| VK Сообщества MCP | [vk-community](https://agenova.ru/integrations/vk-community/) |
+| Wildberries MCP — аналитика | [wb-analytics](https://agenova.ru/integrations/wb-analytics/) |
+| Wildberries MCP — выплаты | [wb-finance](https://agenova.ru/integrations/wb-finance/) |
+| Wildberries MCP — реклама | [wb-promo](https://agenova.ru/integrations/wb-promo/) |
+| Wildberries MCP — поставки на склад | [wb-supplies](https://agenova.ru/integrations/wb-supplies/) |
+| Яндекс AppMetrica MCP | [yandex-appmetrica](https://agenova.ru/integrations/yandex-appmetrica/) |
+| Яндекс Директ MCP | [yandex-direct](https://agenova.ru/integrations/yandex-direct/) |
+| Яндекс Диск MCP | [yandex-disk](https://agenova.ru/integrations/yandex-disk/) |
+| Общий Яндекс Диск MCP | [yandex-disk-shared](https://agenova.ru/integrations/yandex-disk-shared/) |
+| Яндекс Почта MCP | [yandex-mail](https://agenova.ru/integrations/yandex-mail/) |
+| Яндекс Метрика MCP | [yandex-metrica](https://agenova.ru/integrations/yandex-metrica/) |
+| Яндекс Вебмастер MCP | [yandex-webmaster](https://agenova.ru/integrations/yandex-webmaster/) |
 
 Writes: on request in chat the agent can send. There is no separate confirmation screen. Already sent output cannot be pulled back by the next message.
 
 ## Also on the hosted catalog
 
-Same cabinet, not a second product. Personal Telegram/WhatsApp user sessions are not listed here.
+Same cabinet. Personal Telegram/WhatsApp user sessions are not listed.
 
-| Job | What the hosted agent does | Product page |
-|---|---|---|
-| Yandex Direct | Campaigns, ads, and bids from chat | [yandex-direct](https://agenova.ru/integrations/yandex-direct/) |
-| Yandex Metrica | Counters and reports in one request | [yandex-metrica](https://agenova.ru/integrations/yandex-metrica/) |
-| VK Ads | Campaigns, ads, and stats | [vk-ads](https://agenova.ru/integrations/vk-ads/) |
-| Telegram bot | Inbound bot messages and replies | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
-
-The rest of the live catalog stays on [agenova.ru/integrations](https://agenova.ru/integrations/). The marketing site does not put MCP in Title/H1 — that phrase lives here, for IDE search.
+The marketing site does not put MCP in Title/H1 — that phrase lives here, for IDE search.
 
 ## What this repo is not
 
