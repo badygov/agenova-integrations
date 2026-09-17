@@ -4,7 +4,7 @@
 
 **Wildberries MCP**, **Ozon MCP**, and **Bitrix24 MCP** are hosted Model Context Protocol jobs inside the Agenova agent. Connect at [agenova.ru](https://agenova.ru). This repository ([`github.com/badygov/agenova-integrations`](https://github.com/badygov/agenova-integrations)) is documentation only: no server source, no `npx` / `uvx`, no public `mcp.agenova.ru` yet.
 
-The **complete public catalog** is below and in [INTEGRATIONS.md](INTEGRATIONS.md) (40 live leaves). Personal Telegram/WhatsApp user sessions are omitted.
+The **complete public catalog** is below and in [INTEGRATIONS.md](INTEGRATIONS.md) (40 live leaves). **1C MCP** and **SBIS MCP** are hosted custom, on request. Personal Telegram/WhatsApp user sessions are omitted.
 
 Not a local stdio Wildberries MCP you paste into Cursor (`npx`). Not [polluxchou/agenova.chat](https://github.com/polluxchou/agenova.chat) and not the R package [statisfactions/genova](https://github.com/statisfactions/genova). Official MCP Registry `server.json` needs a live remote URL — we do not publish a fake one.
 
@@ -72,11 +72,20 @@ These seven are representative. They are not an official partnership.
 | Яндекс Метрика MCP | [yandex-metrica](https://agenova.ru/integrations/yandex-metrica/) |
 | Яндекс Вебмастер MCP | [yandex-webmaster](https://agenova.ru/integrations/yandex-webmaster/) |
 
+## Hosted custom (on request)
+
+1C MCP and SBIS MCP run as hosted jobs after a request. Not a public toggle, not `npx`.
+
+| MCP search name | Product page |
+|---|---|
+| 1C MCP — hosted custom, on request | [1c-custom](https://agenova.ru/integrations/#1c-custom) |
+| SBIS MCP — hosted EDO, on request | [sbis-edo](https://agenova.ru/integrations/#sbis-edo) |
+
 Writes: on request in chat the agent can send. There is no separate confirmation screen. Already sent output cannot be pulled back by the next message.
 
 ## Also on the hosted catalog
 
-Same cabinet. Personal Telegram/WhatsApp user sessions are not listed.
+Same cabinet. Personal Telegram/WhatsApp user sessions are not listed. 1C and SBIS are listed as hosted custom, not as a public toggle.
 
 The marketing site does not put MCP in Title/H1 — that phrase lives here, for IDE search.
 
@@ -89,7 +98,7 @@ The marketing site does not put MCP in Title/H1 — that phrase lives here, for 
 
 ## Trademarks
 
-Wildberries, Ozon, Bitrix24, and other product names are trademarks of their owners. Mention does not mean endorsement, certification, sponsorship, or partnership.
+Wildberries, Ozon, Bitrix24, 1C, SBIS, and other product names are trademarks of their owners. Mention does not mean endorsement, certification, sponsorship, or partnership.
 
 ## License and security
 
