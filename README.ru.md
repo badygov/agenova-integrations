@@ -1,12 +1,12 @@
-# Agenova — интеграции хоста
+# Wildberries MCP и Ozon MCP — интеграции хоста Agenova
 
 [English](README.md) · [Русский](README.ru.md)
 
-**Этот репозиторий — [`github.com/badygov/agenova-integrations`](https://github.com/badygov/agenova-integrations).** Подключение — на [agenova.ru](https://agenova.ru). Только документация: нет исходников MCP-серверов, брокера и продакшен-инфраструктуры.
+**Wildberries MCP**, **Ozon MCP** и **Bitrix24 MCP** — это hosted-инструменты Model Context Protocol внутри агента Agenova. Подключение — на [agenova.ru](https://agenova.ru). Этот репозиторий ([`github.com/badygov/agenova-integrations`](https://github.com/badygov/agenova-integrations)) только документация: нет исходников серверов, нет `npx` / `uvx`, публичного `mcp.agenova.ru` пока нет.
 
-Это не [polluxchou/agenova.chat](https://github.com/polluxchou/agenova.chat), не R-пакет [statisfactions/genova](https://github.com/statisfactions/genova) и не локальный MCP-сервер Wildberries/Ozon через `npx` (такие листинги — другие репозитории). Здесь нет `npx` и нет публичного MCP URL.
+Это не локальный stdio Wildberries MCP для Cursor через `npx`. Не [polluxchou/agenova.chat](https://github.com/polluxchou/agenova.chat) и не R-пакет [statisfactions/genova](https://github.com/statisfactions/genova). В official MCP Registry `server.json` нужен живой remote URL — фейк не публикуем.
 
-Agenova — размещённый AI-агент для работы в кабинетах селлера и CRM. Интеграции включаются в кабинете Agenova.
+Agenova — размещённый AI-агент для кабинетов селлера и CRM. Интеграции включаются в кабинете, задача — в чате.
 
 ## Как подключить
 
@@ -14,21 +14,21 @@ Agenova — размещённый AI-агент для работы в каби
 2. В кабинете подключите нужные сервисы (токен продавца или OAuth — как спросит продукт).
 3. Сформулируйте задачу в чате (карточка, сборка FBS, отзыв, сделка).
 
-Каталог живых страниц: [agenova.ru/integrations](https://agenova.ru/integrations/).
+Живые страницы: [agenova.ru/integrations](https://agenova.ru/integrations/).
 
-## Семь интеграций в hero
+## Hosted MCP (семь в hero)
 
 Это представительный набор, не официальное партнёрство с Wildberries, Ozon или Битрикс24.
 
-| Работа | Что делает агент на хосте | Страница |
+| Как ищут | Что делает агент на хосте | Страница |
 |---|---|---|
-| Карточки Wildberries | Находит карточку, сверяет поля категории, готовит цены и атрибуты | [wb-catalog](https://agenova.ru/integrations/wb-catalog/) |
-| Сборка FBS Wildberries | Показывает сборочные задания и готовит поставку к сверке с коробами | [wb-fbs](https://agenova.ru/integrations/wb-fbs/) |
-| Отзывы и чаты Wildberries | Собирает неотвеченные отзывы и готовит ответ от имени магазина | [wb-comms](https://agenova.ru/integrations/wb-comms/) |
-| Товары Ozon | Заводит и обновляет товары, цены и фото | [ozon-catalog](https://agenova.ru/integrations/ozon-catalog/) |
-| Сборка FBS Ozon | Показывает горящие отправления и готовит обновление остатков | [ozon-fbs](https://agenova.ru/integrations/ozon-fbs/) |
-| Отзывы и чаты Ozon | Читает отзывы и переписку Seller и готовит ответы | [ozon-comms](https://agenova.ru/integrations/ozon-comms/) |
-| CRM Битрикс24 | Находит сделку, стадию воронки и KPI; готовит правку записи по просьбе | [bitrix-crm](https://agenova.ru/integrations/bitrix-crm/) |
+| Wildberries MCP — карточки | Находит карточку, сверяет поля категории, готовит цены и атрибуты | [wb-catalog](https://agenova.ru/integrations/wb-catalog/) |
+| Wildberries MCP — FBS | Показывает сборочные задания и готовит поставку к сверке с коробами | [wb-fbs](https://agenova.ru/integrations/wb-fbs/) |
+| Wildberries MCP — отзывы | Собирает неотвеченные отзывы и готовит ответ от имени магазина | [wb-comms](https://agenova.ru/integrations/wb-comms/) |
+| Ozon MCP — товары | Заводит и обновляет товары, цены и фото | [ozon-catalog](https://agenova.ru/integrations/ozon-catalog/) |
+| Ozon MCP — FBS | Показывает горящие отправления и готовит обновление остатков | [ozon-fbs](https://agenova.ru/integrations/ozon-fbs/) |
+| Ozon MCP — отзывы | Читает отзывы и переписку Seller и готовит ответы | [ozon-comms](https://agenova.ru/integrations/ozon-comms/) |
+| Bitrix24 MCP — CRM | Находит сделку, стадию воронки и KPI; готовит правку записи по просьбе | [bitrix-crm](https://agenova.ru/integrations/bitrix-crm/) |
 
 Отправка: по команде в чате агент умеет отправить. Отдельного экрана подтверждения нет. Уже отправленное следующим сообщением не отозвать.
 
@@ -43,13 +43,13 @@ Agenova — размещённый AI-агент для работы в каби
 | VK Реклама | Кампании, объявления и статистика | [vk-ads](https://agenova.ru/integrations/vk-ads/) |
 | Telegram-бот | Входящие сообщения бота и ответы | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
 
-Остальной живой каталог — на [agenova.ru/integrations](https://agenova.ru/integrations/), без слова MCP на витрине.
+Остальной живой каталог — на [agenova.ru/integrations](https://agenova.ru/integrations/). Слово MCP в Title/H1 витрины **не** ставим — здесь, для поиска из IDE.
 
 ## Чем этот репозиторий не является
 
-- Не локальный MCP-сервер для Cursor, Claude Desktop или Smithery.
-- Не исходный код Agenova.
-- Не заявка в official MCP Registry (она имеет смысл только после публичного remote с OAuth; такого URL здесь нет).
+- Не локальный MCP-сервер для Cursor, Claude Desktop или Smithery (`npx` / `uvx`).
+- Не исходный код Agenova (`badygov/MCP`).
+- Не заявка в official MCP Registry, пока нет публичного remote с OAuth.
 - Не поддержка клиентов. Операционные обращения не через GitHub Issues (Issues выключены).
 
 ## Товарные знаки
