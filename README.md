@@ -2,9 +2,11 @@
 
 [English](README.md) · [Русский](README.ru.md)
 
-**Connect the hosted agent at [agenova.ru](https://agenova.ru).** This repository is documentation only. It does not include MCP server source, a broker, or production infrastructure.
+**This repository is [`github.com/badygov/agenova-integrations`](https://github.com/badygov/agenova-integrations).** Connect the hosted agent at [agenova.ru](https://agenova.ru). Documentation only: no MCP server source, broker, or production infrastructure.
 
-Agenova is a hosted AI agent for operations in seller cabinets and CRM. You authorize integrations in the Agenova cabinet. There is no `npx` install and no public MCP URL in this repository.
+Not [polluxchou/agenova.chat](https://github.com/polluxchou/agenova.chat), not the R package [statisfactions/genova](https://github.com/statisfactions/genova), and not a local Wildberries/Ozon MCP server you run with `npx` (those are other GitHub listings). There is no `npx` install and no public MCP URL here.
+
+Agenova is a hosted AI agent for operations in seller cabinets and CRM. You authorize integrations in the Agenova cabinet.
 
 ## Connect
 
