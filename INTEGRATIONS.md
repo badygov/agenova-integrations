@@ -1,4 +1,4 @@
-<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: 838bb9f41dfcaeae9d5062ee3976e56a43f5da98 -->
+<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: a933c802f20382b085853cc1548c1b047ada1b88 -->
 
 # Agenova hosted MCP catalog
 
@@ -10,7 +10,6 @@ Not `npx`. Personal Telegram/WhatsApp user sessions are omitted.
 | MCP search name | Product page |
 |---|---|
 | Ozon MCP — реклама | [ozon-promo](https://agenova.ru/integrations/ozon-promo/) |
-| VK Реклама MCP | [vk-ads](https://agenova.ru/integrations/vk-ads/) |
 | Wildberries MCP — реклама | [wb-promo](https://agenova.ru/integrations/wb-promo/) |
 | Яндекс Директ MCP | [yandex-direct](https://agenova.ru/integrations/yandex-direct/) |
 
@@ -38,7 +37,6 @@ Not `npx`. Personal Telegram/WhatsApp user sessions are omitted.
 |---|---|
 | Почта MCP | [mail-imap](https://agenova.ru/integrations/mail-imap/) |
 | Telegram-бот MCP | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
-| VK Сообщества MCP | [vk-community](https://agenova.ru/integrations/vk-community/) |
 | Яндекс Почта MCP | [yandex-mail](https://agenova.ru/integrations/yandex-mail/) |
 
 ## crm

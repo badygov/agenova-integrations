@@ -19,7 +19,7 @@ Agenova is a hosted AI agent for seller cabinets and CRM. You authorize integrat
 Live product pages: [agenova.ru/integrations](https://agenova.ru/integrations/).
 
 <!-- BEGIN GENERATED CATALOG -->
-<!-- catalog-source-sha: 838bb9f41dfcaeae9d5062ee3976e56a43f5da98 -->
+<!-- catalog-source-sha: a933c802f20382b085853cc1548c1b047ada1b88 -->
 ## Hosted MCP jobs (hero)
 
 These seven are representative. They are not an official partnership.
@@ -36,7 +36,7 @@ These seven are representative. They are not an official partnership.
 
 ## Complete public catalog
 
-40 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
+38 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
 
 | MCP search name | Product page |
 |---|---|
@@ -60,8 +60,6 @@ These seven are representative. They are not an official partnership.
 | Ozon MCP — реклама | [ozon-promo](https://agenova.ru/integrations/ozon-promo/) |
 | Поиск в интернете MCP | [perplexity](https://agenova.ru/integrations/perplexity/) |
 | Telegram-бот MCP | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
-| VK Реклама MCP | [vk-ads](https://agenova.ru/integrations/vk-ads/) |
-| VK Сообщества MCP | [vk-community](https://agenova.ru/integrations/vk-community/) |
 | Wildberries MCP — аналитика | [wb-analytics](https://agenova.ru/integrations/wb-analytics/) |
 | Wildberries MCP — выплаты | [wb-finance](https://agenova.ru/integrations/wb-finance/) |
 | Wildberries MCP — реклама | [wb-promo](https://agenova.ru/integrations/wb-promo/) |
