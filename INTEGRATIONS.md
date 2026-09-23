@@ -1,4 +1,4 @@
-<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: ea0e294a0eaf0c803d40f9685cdedc13c165cd37 -->
+<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: da2d3c7b6d1871f3082a5890be31432d8f11c0db -->
 
 # Agenova hosted MCP catalog
 
@@ -36,6 +36,7 @@ Not `npx`. Personal Telegram/WhatsApp user sessions are omitted.
 | MCP search name | Product page |
 |---|---|
 | Почта MCP | [mail-imap](https://agenova.ru/integrations/mail-imap/) |
+| MAX-бот MCP | [max-bot](https://agenova.ru/integrations/max-bot/) |
 | Telegram-бот MCP | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
 | Яндекс Почта MCP | [yandex-mail](https://agenova.ru/integrations/yandex-mail/) |
 
@@ -82,6 +83,12 @@ Not `npx`. Personal Telegram/WhatsApp user sessions are omitted.
 | Wildberries MCP — сборка заказов | [wb-fbs](https://agenova.ru/integrations/wb-fbs/) |
 | Wildberries MCP — выплаты | [wb-finance](https://agenova.ru/integrations/wb-finance/) |
 | Wildberries MCP — поставки на склад | [wb-supplies](https://agenova.ru/integrations/wb-supplies/) |
+
+## other
+
+| MCP search name | Product page |
+|---|---|
+| Работа по расписанию MCP | [hive-schedule](https://agenova.ru/integrations/hive-schedule/) |
 
 ## Hosted custom (on request)
 
