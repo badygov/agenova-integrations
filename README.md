@@ -19,7 +19,7 @@ Agenova is a hosted AI agent for seller cabinets and CRM. You authorize integrat
 Live product pages: [agenova.ru/integrations](https://agenova.ru/integrations/).
 
 <!-- BEGIN GENERATED CATALOG -->
-<!-- catalog-source-sha: 6858964daf40401b1f7d136e6d8829f65573e6da -->
+<!-- catalog-source-sha: 02a22a03f9074ee7b085a0d566f1930effaf1265 -->
 ## Hosted MCP jobs (hero)
 
 These seven are representative. They are not an official partnership.
