@@ -1,4 +1,4 @@
-<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: 3dee0c0a03eaa9bbc31d4b9f8eadc1d9f5541b8d -->
+<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: 09a8ba59ddb798b0f5edfdc6d2739268902504f3 -->
 
 # Agenova hosted MCP catalog
 
