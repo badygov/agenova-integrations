@@ -19,7 +19,7 @@ Agenova is a hosted AI agent for seller cabinets and CRM. You authorize integrat
 Live product pages: [agenova.ru/integrations](https://agenova.ru/integrations/).
 
 <!-- BEGIN GENERATED CATALOG -->
-<!-- catalog-source-sha: ce51afa0fd766fc122252c837de4f6abbf33a67c -->
+<!-- catalog-source-sha: 29d27d4e4f38abc6c06ef1c68ddb48e6f1e5aeb5 -->
 ## Hosted MCP jobs (hero)
 
 These seven are representative. They are not an official partnership.
@@ -36,7 +36,7 @@ These seven are representative. They are not an official partnership.
 
 ## Complete public catalog
 
-42 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
+43 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
 
 | MCP search name | Product page |
 |---|---|
@@ -47,6 +47,7 @@ These seven are representative. They are not an official partnership.
 | Avito MCP — продвижение | [avito-promo](https://agenova.ru/integrations/avito-promo/) |
 | Битрикс24 MCP — аналитика | [bitrix-analytics](https://agenova.ru/integrations/bitrix-analytics/) |
 | Битрикс24 MCP — задачи | [bitrix-tasks](https://agenova.ru/integrations/bitrix-tasks/) |
+| Браузер MCP | [browser](https://agenova.ru/integrations/browser/) |
 | Fal.ai MCP | [fal-bridge](https://agenova.ru/integrations/fal-bridge/) |
 | ГЛОНАССSoft MCP | [glonasssoft](https://agenova.ru/integrations/glonasssoft/) |
 | Google Search Console MCP | [google-search-console](https://agenova.ru/integrations/google-search-console/) |
