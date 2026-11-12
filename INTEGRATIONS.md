@@ -1,9 +1,16 @@
-<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: 0923784a1b5fa1181eb2d7361d14433228cf0e15 -->
+<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: bdd01c855c9df2229800ecc96835850b1f98a84d -->
 
 # Agenova hosted MCP catalog
 
 Derived from live public L0. Connect at [agenova.ru](https://agenova.ru).
 Not `npx`. Personal Telegram/WhatsApp user sessions are omitted.
+
+## accounting
+
+| MCP search name | Product page |
+|---|---|
+| 1С: ваша база MCP | [odata-1c](https://agenova.ru/integrations/odata-1c/) |
+| 1С: обмен с сайтом MCP | [site-exchange](https://agenova.ru/integrations/site-exchange/) |
 
 ## ads
 
@@ -91,6 +98,7 @@ Not `npx`. Personal Telegram/WhatsApp user sessions are omitted.
 | MCP search name | Product page |
 |---|---|
 | Браузер MCP | [browser](https://agenova.ru/integrations/browser/) |
+| Справочник и маршруты MCP | [dgis](https://agenova.ru/integrations/dgis/) |
 | Работа по расписанию MCP | [hive-schedule](https://agenova.ru/integrations/hive-schedule/) |
 
 ## Hosted custom (on request)

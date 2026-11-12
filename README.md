@@ -19,7 +19,7 @@ Agenova is a hosted AI agent for seller cabinets and CRM. You authorize integrat
 Live product pages: [agenova.ru/integrations](https://agenova.ru/integrations/).
 
 <!-- BEGIN GENERATED CATALOG -->
-<!-- catalog-source-sha: 0923784a1b5fa1181eb2d7361d14433228cf0e15 -->
+<!-- catalog-source-sha: bdd01c855c9df2229800ecc96835850b1f98a84d -->
 ## Hosted MCP jobs (hero)
 
 These seven are representative. They are not an official partnership.
@@ -36,7 +36,7 @@ These seven are representative. They are not an official partnership.
 
 ## Complete public catalog
 
-43 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
+46 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
 
 | MCP search name | Product page |
 |---|---|
@@ -48,6 +48,7 @@ These seven are representative. They are not an official partnership.
 | Битрикс24 MCP — аналитика | [bitrix-analytics](https://agenova.ru/integrations/bitrix-analytics/) |
 | Битрикс24 MCP — задачи | [bitrix-tasks](https://agenova.ru/integrations/bitrix-tasks/) |
 | Браузер MCP | [browser](https://agenova.ru/integrations/browser/) |
+| Справочник и маршруты MCP | [dgis](https://agenova.ru/integrations/dgis/) |
 | Fal.ai MCP | [fal-bridge](https://agenova.ru/integrations/fal-bridge/) |
 | ГЛОНАССSoft MCP | [glonasssoft](https://agenova.ru/integrations/glonasssoft/) |
 | Google Search Console MCP | [google-search-console](https://agenova.ru/integrations/google-search-console/) |
@@ -57,11 +58,13 @@ These seven are representative. They are not an official partnership.
 | MAX-бот MCP | [max-bot](https://agenova.ru/integrations/max-bot/) |
 | Текст из документов MCP | [mistral-ocr-bridge](https://agenova.ru/integrations/mistral-ocr-bridge/) |
 | MoyKlass MCP | [moyklass-crm-api](https://agenova.ru/integrations/moyklass-crm-api/) |
+| 1С: ваша база MCP | [odata-1c](https://agenova.ru/integrations/odata-1c/) |
 | Ozon MCP — отчёты | [ozon-analytics](https://agenova.ru/integrations/ozon-analytics/) |
 | Ozon MCP — поставки на склад | [ozon-fbo](https://agenova.ru/integrations/ozon-fbo/) |
 | Ozon MCP — выплаты | [ozon-finance](https://agenova.ru/integrations/ozon-finance/) |
 | Ozon MCP — реклама | [ozon-promo](https://agenova.ru/integrations/ozon-promo/) |
 | Поиск в интернете MCP | [perplexity](https://agenova.ru/integrations/perplexity/) |
+| 1С: обмен с сайтом MCP | [site-exchange](https://agenova.ru/integrations/site-exchange/) |
 | Telegram-бот MCP | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
 | VK Реклама MCP | [vk-ads](https://agenova.ru/integrations/vk-ads/) |
 | VK Сообщества MCP | [vk-community](https://agenova.ru/integrations/vk-community/) |
