@@ -19,7 +19,7 @@ Agenova is a hosted AI agent for seller cabinets and CRM. You authorize integrat
 Live product pages: [agenova.ru/integrations](https://agenova.ru/integrations/).
 
 <!-- BEGIN GENERATED CATALOG -->
-<!-- catalog-source-sha: 92ee17235807f788e59e2154fe5846e5a394c308 -->
+<!-- catalog-source-sha: 06d47c068008b67b47d89f8a6dc5aed6c5d31a5e -->
 ## Hosted MCP jobs (hero)
 
 These seven are representative. They are not an official partnership.
@@ -36,7 +36,7 @@ These seven are representative. They are not an official partnership.
 
 ## Complete public catalog
 
-46 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
+47 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
 
 | MCP search name | Product page |
 |---|---|
@@ -73,6 +73,7 @@ These seven are representative. They are not an official partnership.
 | Wildberries MCP — реклама | [wb-promo](https://agenova.ru/integrations/wb-promo/) |
 | Wildberries MCP — поставки на склад | [wb-supplies](https://agenova.ru/integrations/wb-supplies/) |
 | Яндекс AppMetrica MCP | [yandex-appmetrica](https://agenova.ru/integrations/yandex-appmetrica/) |
+| Яндекс Календарь MCP | [yandex-calendar](https://agenova.ru/integrations/yandex-calendar/) |
 | Яндекс Директ MCP | [yandex-direct](https://agenova.ru/integrations/yandex-direct/) |
 | Яндекс Диск MCP | [yandex-disk](https://agenova.ru/integrations/yandex-disk/) |
 | Общий Яндекс Диск MCP | [yandex-disk-shared](https://agenova.ru/integrations/yandex-disk-shared/) |

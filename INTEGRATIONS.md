@@ -1,4 +1,4 @@
-<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: 92ee17235807f788e59e2154fe5846e5a394c308 -->
+<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: 06d47c068008b67b47d89f8a6dc5aed6c5d31a5e -->
 
 # Agenova hosted MCP catalog
 
@@ -100,6 +100,7 @@ Not `npx`. Personal Telegram/WhatsApp user sessions are omitted.
 | Браузер MCP | [browser](https://agenova.ru/integrations/browser/) |
 | Справочник и маршруты MCP | [dgis](https://agenova.ru/integrations/dgis/) |
 | Работа по расписанию MCP | [hive-schedule](https://agenova.ru/integrations/hive-schedule/) |
+| Яндекс Календарь MCP | [yandex-calendar](https://agenova.ru/integrations/yandex-calendar/) |
 
 ## Hosted custom (on request)
 
