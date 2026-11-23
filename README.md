@@ -19,7 +19,7 @@ Agenova is a hosted AI agent for seller cabinets and CRM. You authorize integrat
 Live product pages: [agenova.ru/integrations](https://agenova.ru/integrations/).
 
 <!-- BEGIN GENERATED CATALOG -->
-<!-- catalog-source-sha: b9c31de3ffe9c0cf6bd68b5582265c8478c11c33 -->
+<!-- catalog-source-sha: 29a01eb1d04f42a8800f808242977b79975792c6 -->
 ## Hosted MCP jobs (hero)
 
 These seven are representative. They are not an official partnership.
@@ -36,7 +36,7 @@ These seven are representative. They are not an official partnership.
 
 ## Complete public catalog
 
-47 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
+46 live public integrations. Details: [INTEGRATIONS.md](INTEGRATIONS.md).
 
 | MCP search name | Product page |
 |---|---|
@@ -77,7 +77,6 @@ These seven are representative. They are not an official partnership.
 | Яндекс Директ MCP | [yandex-direct](https://agenova.ru/integrations/yandex-direct/) |
 | Яндекс Диск MCP | [yandex-disk](https://agenova.ru/integrations/yandex-disk/) |
 | Общий Яндекс Диск MCP | [yandex-disk-shared](https://agenova.ru/integrations/yandex-disk-shared/) |
-| Яндекс Почта MCP | [yandex-mail](https://agenova.ru/integrations/yandex-mail/) |
 | Яндекс Метрика MCP | [yandex-metrica](https://agenova.ru/integrations/yandex-metrica/) |
 | Яндекс Вебмастер MCP | [yandex-webmaster](https://agenova.ru/integrations/yandex-webmaster/) |
 

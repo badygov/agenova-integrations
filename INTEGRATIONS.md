@@ -1,4 +1,4 @@
-<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: b9c31de3ffe9c0cf6bd68b5582265c8478c11c33 -->
+<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: 29a01eb1d04f42a8800f808242977b79975792c6 -->
 
 # Agenova hosted MCP catalog
 
@@ -47,7 +47,6 @@ Not `npx`. Personal Telegram/WhatsApp user sessions are omitted.
 | MAX-бот MCP | [max-bot](https://agenova.ru/integrations/max-bot/) |
 | Telegram-бот MCP | [telegram-bot](https://agenova.ru/integrations/telegram-bot/) |
 | VK Сообщества MCP | [vk-community](https://agenova.ru/integrations/vk-community/) |
-| Яндекс Почта MCP | [yandex-mail](https://agenova.ru/integrations/yandex-mail/) |
 
 ## crm
 
