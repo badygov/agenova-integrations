@@ -19,7 +19,7 @@ Agenova is a hosted AI agent for seller cabinets and CRM. You authorize integrat
 Live product pages: [agenova.ru/integrations](https://agenova.ru/integrations/).
 
 <!-- BEGIN GENERATED CATALOG -->
-<!-- catalog-source-sha: dfdea1dbd335eb6c1899cf0205ff338287a39f57 -->
+<!-- catalog-source-sha: 4e597ce6804a4704231e55e11ed04e023acb558a -->
 ## Hosted MCP jobs (hero)
 
 These seven are representative. They are not an official partnership.
@@ -53,7 +53,7 @@ These seven are representative. They are not an official partnership.
 | ГЛОНАССSoft MCP | [glonasssoft](https://agenova.ru/integrations/glonasssoft/) |
 | Google Search Console MCP | [google-search-console](https://agenova.ru/integrations/google-search-console/) |
 | Google Таблицы и документы MCP | [google-shared](https://agenova.ru/integrations/google-shared/) |
-| Аренда ГПУ MCP | [gpu-rental](https://agenova.ru/integrations/gpu-rental/) |
+| Вычисления MCP | [gpu-rental](https://agenova.ru/integrations/gpu-rental/) |
 | Работа по расписанию MCP | [hive-schedule](https://agenova.ru/integrations/hive-schedule/) |
 | Почта MCP | [mail-imap](https://agenova.ru/integrations/mail-imap/) |
 | MAX-бот MCP | [max-bot](https://agenova.ru/integrations/max-bot/) |
