@@ -1,4 +1,4 @@
-<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: 2008ca7463f96a5d28f7d98550ec5069445f20bd -->
+<!-- Generated from badygov/MCP public L0 flags. Do not edit. catalog-source-sha: b47eed88a5d387506fbd1915373901203ee2959b -->
 
 # Agenova hosted MCP catalog
 
@@ -26,6 +26,7 @@ Not `npx`. Personal Telegram/WhatsApp user sessions are omitted.
 | MCP search name | Product page |
 |---|---|
 | Fal.ai MCP | [fal-bridge](https://agenova.ru/integrations/fal-bridge/) |
+| Аренда ГПУ MCP | [gpu-rental](https://agenova.ru/integrations/gpu-rental/) |
 | Текст из документов MCP | [mistral-ocr-bridge](https://agenova.ru/integrations/mistral-ocr-bridge/) |
 | Поиск в интернете MCP | [perplexity](https://agenova.ru/integrations/perplexity/) |
 
